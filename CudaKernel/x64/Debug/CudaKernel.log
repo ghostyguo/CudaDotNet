@@ -1,0 +1,7 @@
+﻿  CudaKernel.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\include\cuda_runtime.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\program files\nvidia gpu computing toolkit\cuda\v9.2\include\cuda_runtime_api.h(1927): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\program files\nvidia gpu computing toolkit\cuda\v9.2\include\cuda_runtime_api.h(1927): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  CudaKernel.obj : Managed 程式碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
+     正在建立程式庫 D:\My Documents\Visual Studio 2017\Projects\CudaDotNet\x64\Debug\CudaKernel.lib 和物件 D:\My Documents\Visual Studio 2017\Projects\CudaDotNet\x64\Debug\CudaKernel.exp
+  CudaKernel.vcxproj -> D:\My Documents\Visual Studio 2017\Projects\CudaDotNet\x64\Debug\CudaKernel.dll
